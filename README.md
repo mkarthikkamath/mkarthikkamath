@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 ### My GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mkarthikkamath&size_weight=0.5&count_weight=0.5theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mkarthikkamath&size_weight=0.5&count_weight=0.5&theme=dark)
 
 ![My GitHub Contributions](https://github-readme-stats.vercel.app/api?username=mkarthikkamath&theme=dark&show_icons=true)
 
